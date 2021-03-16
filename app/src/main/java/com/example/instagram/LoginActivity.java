@@ -22,7 +22,6 @@ public class LoginActivity extends AppCompatActivity {
 
     private EditText etUsername;
     private EditText etPassword;
-
     private Button btnLogin;
     private Button btnSignUp;
 
